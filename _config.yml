@@ -103,7 +103,7 @@ sidebars:
 - home_sidebar
 
 description: 
-  "Documentation for the custom [Symphony DAS](http://symphony-das.github.io) wrapper, [Conductor](https://github.com/sampath-lab-ucla/Conductor)."
+  "Documentation for the custom Symphony DAS wrapper, Conductor."
 # the description is used in the feed.xml file
 
 github: [metadata]

@@ -9,7 +9,7 @@ summary:
 
 {% include note.html content="In order to use this extension package,
 Symphony-Core libraries must be installed and Symphony must be packaged from <a
-href="https://github.com/Khlick/symphony-matlab">this repository</a>." %}
+href='https://github.com/Khlick/symphony-matlab'>this repository</a>." %}
 
 ## Key Features
 

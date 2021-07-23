@@ -12,7 +12,8 @@ topnav_title: Conductor Documentation
 site_title: Conductor Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Sampath Lab 2021
+company_name: Sampath Lab
+project_name: Conductor
 # this appears in the footer
 
 #github_editme_path: sampath-lab-ucla/conductor-docs/

@@ -161,5 +161,3 @@ data-original-title="{{site.data.glossary.hockey}}">Hockey</a> is awesome.
 on the groups forum.
 
 [Jan Simon](https://www.mathworks.com/matlabcentral/profile/authors/869888) for the [FilterM](https://www.mathworks.com/matlabcentral/fileexchange/32261-filterm) tool.
-
-{% include links.html %}

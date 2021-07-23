@@ -101,18 +101,9 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
-description: "Documentation for the custom [Symphony
-DAS](http://symphony-das.github.io) wrapper, [Conductor](https://github.com/sampath-lab-ucla/Conductor)."
+description: 
+  "Documentation for the custom [Symphony DAS](http://symphony-das.github.io) wrapper, [Conductor](https://github.com/sampath-lab-ucla/Conductor)."
 # the description is used in the feed.xml file
-
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
-
 
 github: [metadata]

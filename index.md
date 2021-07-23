@@ -3,8 +3,7 @@ title: "Conductor Documentation"
 sidebar: home_sidebar
 permalink: index.html
 summary: 
-  Documentation for the [Symphony Das](http://symphony-das.github.io)
-  wrapper, Conductor, written in MATLAB (2018b) for windows.
+  "Documentation for the [Symphony Das](http://symphony-das.github.io) wrapper, Conductor, written in MATLAB (2018b) for windows."
 ---
 
 {% include note.html content="In order to use this extension package,

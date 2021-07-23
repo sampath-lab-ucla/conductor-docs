@@ -109,7 +109,7 @@ d-----          1/1/2020   1:01 PM                +sources
 ```
 
 In general, a user file structure follows this scheme:
-```
+```bash
 ./<Conductor root>
 ├── User_A
 │   ├── Setup_1

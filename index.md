@@ -136,11 +136,11 @@ the most up-to-date versions. To do this, open MATLAB and navigate the current
 folder to the Conductor root. Run the `conductor.updateUser()` command and use
 the interface to update setups.
 
-![updateUI](./main/lib/img/updateUserUI.jpg)
+![updateUI](images/updateUserUI.jpg)
 
 Select the update type from the dropdown for each rig and click update.
 
-![updateUI success](./main/lib/img/updateUserUI_success.jpg)
+![updateUI success](images/updateUserUI_success.jpg)
 
 
 

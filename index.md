@@ -149,12 +149,6 @@ Select the update type from the dropdown for each rig and click update.
 Report bugs and requests through github issues. All other questions can be addressed to khrisgriffis[at]ucla.edu.
 
 
-## Test
-
-<a href="#" data-toggle="tooltip"
-data-original-title="{{site.data.glossary.hockey}}">Hockey</a> is awesome.
-
-
 ## Thanks To Creators:
 
 [Mark Cafaro](https://github.com/cafarm) for [Symphony](https://symphony-das.github.io/) and patient attentiveness

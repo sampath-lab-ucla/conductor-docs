@@ -103,6 +103,8 @@ defaults:
 sidebars:
 - home_sidebar
 
+css_file: theme-conductor
+
 description: 
   "Documentation for the custom Symphony DAS wrapper, Conductor."
 # the description is used in the feed.xml file

@@ -6,7 +6,7 @@ repository: sampath-lab-ucla/conductor-docs/
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Conductor Documentation
+topnav_title: Conductor
 # this appears on the top navigation bar next to the home button
 
 site_title: Conductor Documentation
